@@ -6,7 +6,7 @@
   "dependencies": {
     "buffer-alloc-unsafe": "^1.1.0",
     "buffer-from": "^1.1.0",
-    "sodium-universal": "^2.0.0",
+    "sodium-universal": "github:vivafoundation/sodium-universal",
     "uint64be": "^2.0.2"
   },
   "devDependencies": {
